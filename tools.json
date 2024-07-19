@@ -1,5 +1,6 @@
 {
   "xor-checksum-calc": "https://tinkererway.dev/the_dev_calc/xor_crc_calc",
   "voltage-divider-calc": "https://tinkererway.dev/the_dev_calc/voltage_divider_calc",
-  "seven-segment-calc": "https://tinkererway.dev/the_dev_calc/sev_seg_calc"
+  "seven-segment-calc": "https://tinkererway.dev/the_dev_calc/sev_seg_calc",
+  "google": "https://google.com/"
 }
